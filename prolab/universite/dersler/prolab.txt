@@ -1,0 +1,3 @@
+[[pro_lab]]
+asil amacimiz bu ders icin bir proje gelistirmek.
+bakalim bir seyler yapmaya calisiyorum.
