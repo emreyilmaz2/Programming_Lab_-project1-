@@ -1,4 +1,5 @@
 #include "prolab.h"
+#include <locale.h>
 
 static	char **dirent(char *src) {
 	DIR *d;
