@@ -1,0 +1,4 @@
+Dersin adi : [[Matematik_2]]
+Dersin icerigi : matematik 2 dersinde ise
+universitenin bahar doneminde islenen derslerin temelleri kullanarak
+ileriki matematik dersleri islenir.

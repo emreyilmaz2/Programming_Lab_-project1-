@@ -1,0 +1,3 @@
+Dersin adi :           [[Matematik_1]]
+Dersin icerigi : matematik 1 dersinde lisede atilan temellerin tekrar edilerek
+ogrencilere hatirlatilmasi amaclanir.

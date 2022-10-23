@@ -6,7 +6,6 @@ int ft_strnstr(const char *haystack, const char *needle, int flag)
     size_t    c;
     size_t    n_len;
     char    *hay;
-
     i = 0;
     hay = (char *)haystack;
     n_len = strlen(needle);
